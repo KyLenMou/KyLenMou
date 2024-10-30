@@ -1,19 +1,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=35&pause=1000&color=3DDFF7&width=900&height=70&separator=%3D&lines=System.out.print(%22Hello!+I'm+KyLenMou%22);%3Dcout%3C%3C%22Hello!+I'm+KyLenMou%22;%3Dprintf(%22Hello!+I'm+KyLenMou%22);%3Dconsole.log(%22Hello!+I'm+KyLenMou%22);%3Dprint(%22Hello!+I'm+KyLenMou%22)" alt="Typing SVG" /></a>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=KyLenMou&show_icons=true&theme=transparent" alt="GitHub Stats" style="display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=compact" alt="Top Langs" style="display: inline-block;" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KyLenMou&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=compact" alt="Top Langs" />
 </div>
 
 
 
 
 ## My Skill Set  
-<table style="border: 0px"><tr><td valign="top" width="230px">
+<table style="border: 0px"><tr><td valign="top" width="22%">
 
 
 
-### Frontend  
+**Frontend**
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -23,11 +23,11 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="230px">
+</td><td valign="top" width="22%">
 
 
 
-### Backend  
+**Backend**
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
@@ -37,11 +37,11 @@
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="230px">
+</td><td valign="top" width="22%">
 
 
 
-### DevOps  
+**DevOps**
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -49,6 +49,12 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="34%">
+
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=compact&theme=transparent" alt="Top Langs" />
 </div>
 
 </td></tr></table>  
