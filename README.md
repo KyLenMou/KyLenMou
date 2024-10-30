@@ -46,12 +46,3 @@
 <br/>  
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KyLenMou&theme=onedark)
-
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [其他社交媒体](https://your-social-media-link)
-
----
-
-感谢您的访问！如果您对我的工作感兴趣，或者有任何合作机会，请随时联系我。
