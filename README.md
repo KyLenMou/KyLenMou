@@ -1,19 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=35&pause=1000&color=3DDFF7&width=900&height=70&separator=%3D&lines=System.out.print(%22Hello!+I'm+KyLenMou%22);%3Dcout%3C%3C%22Hello!+I'm+KyLenMou%22;%3Dprintf(%22Hello!+I'm+KyLenMou%22);%3Dconsole.log(%22Hello!+I'm+KyLenMou%22);%3Dprint(%22Hello!+I'm+KyLenMou%22)" alt="Typing SVG" /></a>
+<picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyLenMou/KyLenMou/output/github-contribution-grid-snake-dark.svg">  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyLenMou/KyLenMou/output/github-contribution-grid-snake.svg">  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KyLenMou/KyLenMou/output/github-contribution-grid-snake.svg"> </picture>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=KyLenMou&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=compact" alt="Top Langs" />
-</div>
-
-
-
-
-## My Skill Set  
-<table style="border: 0px"><tr><td valign="top" width="22%">
-
-
-
+## 🛠️ My Skill Set
+<table><tr><td valign="top" width="22%">
+  
 **Frontend**
+  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -22,12 +14,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="22%">
-
-
-
+  
 **Backend**
+
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
@@ -36,12 +26,10 @@
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="22%">
-
-
-
+  
 **DevOps**
+  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -50,77 +38,15 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="34%">
-
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=compact&theme=transparent" alt="Top Langs" />
 </div>
-
 </td></tr></table>  
-
 <br/>  
-# 🌟 [Your Name](https://github.com/your-username) - GitHub Profile
 
-欢迎来到我的GitHub个人主页！我是[Your Name]，一名[职业/角色]，专注于[技术领域/兴趣爱好]。
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KyLenMou&theme=onedark)
 
-## 🚀 关于我
-
-- 💼 **职业**: [您的职业]
-- 🌍 **地点**: [您的位置]
-- 📧 **邮箱**: [您的邮箱]
-- 🔗 **博客/个人网站**: [您的个人网站链接]
-
-## 🛠️ 技能和工具
-
-以下是我熟练使用的一些技术和工具：
-
-- 编程语言：
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  - 更多...
-
-- 框架/库：
-  - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  - 更多...
-
-- 工具：
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-  - 更多...
-
-## 📊 GitHub统计
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)](https://git.io/streak-stats)
-
-## 🏆 奖杯
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-username)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📚 最近项目
-
-以下是我最近参与的一些项目：
-
-1. [项目名称](https://github.com/your-username/project-name) - 项目描述。
-2. [项目名称](https://github.com/your-username/project-name) - 项目描述。
-3. 更多...
-
-## 📈 GitHub活动图
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=chartreuse-dark)
-
-## 🎧 Spotify播放
-
-[Spotify](https://open.spotify.com/user/your-spotify-username) - 我最近在听的音乐。
-
-## 📝 笔记和文章
-
-- [博客文章](https://your-blog-link.com) - 我的博客文章链接。
-- [技术笔记](https://your-notes-link.com) - 我的技术笔记链接。
-
-## 🔗 社交链接
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - [Twitter](https://twitter.com/your-twitter-handle)
