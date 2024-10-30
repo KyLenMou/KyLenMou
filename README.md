@@ -9,7 +9,7 @@
 
 
 ## My Skill Set  
-<table style="border: 0px"><tr><td valign="top" width="22%">
+<table style="border: 0px"><tr><td valign="top" width="21%">
 
 
 
@@ -23,7 +23,7 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="22%">
+</td><td valign="top" width="21%">
 
 
 
@@ -37,7 +37,7 @@
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="22%">
+</td><td valign="top" width="21%">
 
 
 
@@ -51,7 +51,7 @@
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="34%">
+</td><td valign="top" width="37%">
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=compact&theme=transparent" alt="Top Langs" />
