@@ -4,14 +4,12 @@
 
 ## 🛠️ My Skill Set
 <table style="width: 100%;">
-  <!-- 第一行：三列前端、后端、部署 -->
   <tr>
     <th colspan="3">Frontend 🌐</th>
     <th colspan="3">Backend ⚙️</th>
     <th colspan="3">DevOps 🚀</th>
   </tr>
   
-  <!-- 第二行：对应的前端、后端、部署的图标名称 -->
   <tr>
     <td style="text-align:center; vertical-align: top;">
       <strong>HTML5</strong><br>
@@ -42,7 +40,6 @@
     </td>
   </tr>
 
-  <!-- 第三行：对应的前端、后端、部署的图标 -->
   <tr>
     <td style="text-align:center; vertical-align: top;">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -73,7 +70,6 @@
     </td>
   </tr>
 
-  <!-- 第四行：对应的前端、后端、部署的图标名称 -->
   <tr>
     <td style="text-align:center; vertical-align: top;">
       <strong>JavaScript</strong><br>
@@ -104,7 +100,6 @@
     </td>
   </tr>
 
-  <!-- 第五行：对应的前端、后端、部署的图标 -->
   <tr>
     <td style="text-align:center; vertical-align: top;">
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -140,12 +135,16 @@
 
 
 
+## 🏆 My Profile Trophy And Top Languages
 
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=compact&theme=transparent" width="25%">
+  <span style="border-left: 2px solid #ccc; height: 150px; margin: 0 10px;"></span>
+  <img src="https://github-profile-trophy.vercel.app/?username=KyLenMou&theme=onedark&title=-PullRequest,-Reviews" width="70%" height="150px">
+</div>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KyLenMou&theme=onedark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=donut&theme=transparent)
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyLenMou&show_icons=true&theme=transparent)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KyLenMou&theme=github)
+-->
