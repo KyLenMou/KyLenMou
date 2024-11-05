@@ -1,22 +1,8 @@
+<picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyLenMou/KyLenMou/output/github-contribution-grid-snake-dark.svg">  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyLenMou/KyLenMou/output/github-contribution-grid-snake.svg">  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KyLenMou/KyLenMou/output/github-contribution-grid-snake.svg"> </picture>
+
 ## 👋 Hello! I'm KyLen
 
-<a href="https://github.com/KyLenMou" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="mailto:kkkylen@qq.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-%23d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://blog.csdn.net/KyLen_Mou" target="_blank">
-  <img src="https://img.shields.io/badge/CSDN-%23FF7F00.svg?&style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN" style="margin-bottom: 5px;" />
-</a>
-
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=35&pause=1000&color=3DDFF7&width=900&height=50&separator=%3D&lines=System.out.print(%22Hello!+I'm+KyLenMou%22);%3Dcout%3C%3C%22Hello!+I'm+KyLenMou%22;%3Dprintf(%22Hello!+I'm+KyLenMou%22);%3Dconsole.log(%22Hello!+I'm+KyLenMou%22);%3Dprint(%22Hello!+I'm+KyLenMou%22)" alt="Typing SVG" />
-
-<picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyLenMou/KyLenMou/output/github-contribution-grid-snake-dark.svg">  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyLenMou/KyLenMou/output/github-contribution-grid-snake.svg">  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KyLenMou/KyLenMou/output/github-contribution-grid-snake.svg"> </picture>
 
 ## 🛠️ My Skill Set
 <table style="width: 100%;">
