@@ -134,14 +134,15 @@
 
 
 
+## 🏆 My Profile Trophy
 
-## 🏆 My Profile Trophy And Top Languages
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KyLenMou&theme=onedark)
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=compact&theme=transparent" width="25%">
-  <span style="border-left: 2px solid #ccc; height: 150px; margin: 0 10px;"></span>
-  <img src="https://github-profile-trophy.vercel.app/?username=KyLenMou&theme=onedark&title=-PullRequest,-Reviews" width="70%" height="150px">
-</div>
+## 📊 My Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=donut&theme=transparent&title=-PullRequest,-Reviews)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyLenMou&show_icons=true&theme=transparent)
