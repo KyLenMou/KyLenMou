@@ -39,11 +39,9 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
 </div>
-</td><td valign="top" width="34%">
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=compact&theme=transparent" alt="Top Langs" />
-</div>
 </td></tr></table>  
 <br/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KyLenMou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KyLenMou&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
