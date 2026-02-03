@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=35&pause=1000&color=3DDFF7&width=900&height=50&separator=%3D&lines=System.out.print(%22Hello!+I'm+KyLenMou%22);%3Dcout%3C%3C%22Hello!+I'm+KyLenMou%22;%3Dprintf(%22Hello!+I'm+KyLenMou%22);%3Dconsole.log(%22Hello!+I'm+KyLenMou%22);%3Dprint(%22Hello!+I'm+KyLenMou%22)" alt="Typing SVG" />
 
-## 🛠️ My Skill Set
+## 🛠️ Skill Set
 <table style="width: 100%;">
   <tr>
     <th colspan="3">Frontend 🌐</th>
@@ -136,11 +136,23 @@
 
 
 
-## 🏆 My Profile Trophy
+## 🏆 Profile Trophy
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KyLenMou&theme=onedark)
 
-## 📊 My Top Languages
+## 📊 Top Languages
+
+## ✨ About Me
+
+- Focused on building clean, reliable web applications from UI to infrastructure.
+- Enjoys crafting thoughtful developer experience and maintainable systems.
+- Open to collaboration on frontend, backend, and DevOps work.
+
+## ⚡ Highlights
+
+- Full-stack engineer with a strong interest in performance and usability.
+- Comfortable across modern tooling from frontend frameworks to server-side stacks.
+- Continuous learner who values clear documentation and resilient design.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyLenMou&layout=donut&theme=transparent&title=-PullRequest,-Reviews)](https://github.com/anuraghazra/github-readme-stats)
 
